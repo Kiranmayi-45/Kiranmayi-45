@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiranmayi</h1>
 <h3 align="center">Tech Enthusiast and Curious Learner</h3>
-<div > <img src="https://tse1.mm.bing.net/th?id=OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj&pid=Api&P=0&h=180"  width="650px"  alt=""/> </div>
+
 
 
 - 🌱 I’m currently learning **MachineLearning**
